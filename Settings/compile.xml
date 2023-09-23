@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <CompileGroup Type="BinderItem"/>
+            <Filter State="Off" Exclude="No" Type="Label">
+                <Label>-1</Label>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveFootnotes>Yes</RemoveFootnotes>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72" MaxSize="0">No</ResampleImages>
+            <ConvertRichTextToMMD>No</ConvertRichTextToMMD>
+            <Links/>
+            <PDF>
+                <Cover Source="" Bleed="0.0" BleedUnits="pt"></Cover>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType></ImageResolutionCompressionType>
+                    <ImageResolution>300</ImageResolution>
+                    <CompressionQuality>0.5</CompressionQuality>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"></ImageDocument>
+                    <Title>Cover</Title>
+                    <SVG Width="-1" Height="-1"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <Authors>
+                <Author>Felipe Padilla</Author>
+            </Authors>
+            <Surname>Padilla</Surname>
+            <Forename>Felipe</Forename>
+            <EbookLanguage>en</EbookLanguage>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>pdf</CurrentFileType>
+    <FormatSettings>
+        <Format ID="DEFAULT">
+            <SectionLayouts>
+                <Type ID="8162ED9B-6033-4712-9C26-C087EF143D21">NEW-PAGE-HEADER-WITH-TEXT</Type>
+                <Type ID="C5BD3923-3253-4108-8957-34D9A2D2A688">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+        <Format ID="paperback-6x9">
+            <Font>PalatinoLinotype-Roman</Font>
+            <SectionLayouts>
+                <Type ID="137F27E9-A314-4E0A-9BD1-E8A870B66FA1">45C71E28-DB3C-4ED8-8E8C-D85E64C375FC</Type>
+                <Type ID="6657529F-A0E2-46D8-9E60-5244D764E4D5">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
+                <Type ID="8162ED9B-6033-4712-9C26-C087EF143D21">923B5D83-D682-4091-A4FF-3F87A49A2AD0</Type>
+                <Type ID="C5BD3923-3253-4108-8957-34D9A2D2A688">TEXT-SECTION</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">B3F99B65-A16C-4FD6-8EBD-006781F56026</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="4C75CD64-7240-4650-98BA-5C2A0474DC0F">
+            <Font>PalatinoLinotype-Roman</Font>
+            <SectionLayouts>
+                <Type ID="137F27E9-A314-4E0A-9BD1-E8A870B66FA1">45C71E28-DB3C-4ED8-8E8C-D85E64C375FC</Type>
+                <Type ID="6657529F-A0E2-46D8-9E60-5244D764E4D5">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
+                <Type ID="8162ED9B-6033-4712-9C26-C087EF143D21">D1848966-5D15-4080-B5FA-EDC5063123B0</Type>
+                <Type ID="C5BD3923-3253-4108-8957-34D9A2D2A688">TEXT-SECTION</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">B3F99B65-A16C-4FD6-8EBD-006781F56026</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <Print>paperback-6x9</Print>
+        <pdf>4C75CD64-7240-4650-98BA-5C2A0474DC0F</pdf>
+    </LastUsedFormats>
+</CompileSettings>

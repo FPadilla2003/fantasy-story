@@ -2218,7 +2218,7 @@ Character’s personal history.</Text>
         </Document>
         <Document ID="D63FAFE1-08CF-4336-91F9-11B2667B35E4">
             <Title>2</Title>
-            <Text>A lone moth landed on her eyelid. Dark brown wings spotted like termite wood. That was the first sensation she felt: a brush from its frail legs. Her eyes like heavy storm clouds, she flickered them open, water accumulating before their fall. Her fingers and toes were next as she twitched them, stuck in a mummy-like state. A cramping developed around her neck, any slight movement a mental ripple of pain. A constant throbbing. She stayed still for the comfort that remained. (this is the git repo test)</Text>
+            <Text>	A lone moth landed on her eyelid. Dark brown wings spotted like termite wood. That was the first sensation she felt: a brush from its frail legs. Her eyes like heavy storm clouds, she flickered them open, water accumulating before their fall. Her fingers and toes were next as she twitched them, stuck in a mummy-like state. A cramping developed around her neck, any slight movement a mental ripple of pain. A constant throbbing. She stayed still for the comfort that remained.</Text>
             <Notes>Mention what the purple necklace is for</Notes>
         </Document>
         <Document ID="D701FF8D-9389-4442-9F28-80098DF2CC51">
@@ -2235,6 +2235,7 @@ Character’s personal history.</Text>
         <Document ID="DBB26336-E5C6-4F61-9B8C-70DF6911317D">
             <Title>26 - Continue developing</Title>
             <Synopsis>How does your character fit into these factions? How do they affect the story?</Synopsis>
+            <Text> </Text>
             <Notes>This information goes on your character page. Possibly in its own section, depending on how prominent it is within your story. First list your character's role in the faction, then go through the data points you have on your character already. Connect them to your character's relationship with this faction. Remember that not all data points will have relevance to the character's relationship with or membership in the faction, just because a character is monogamous, for example, does not necessarily mean the League of Pog Collectors cares. </Notes>
         </Document>
         <Document ID="DBF28F92-80FF-4BCB-8801-2B1F70DC6F3A">

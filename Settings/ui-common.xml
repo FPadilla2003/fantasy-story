@@ -75,9 +75,6 @@
                     <ItemID>D63FAFE1-08CF-4336-91F9-11B2667B35E4</ItemID>
                 </Content>
                 <NavigationHistory CurrentIndex="199">
-                    <HistoryItem Type="BinderItems" ViewMode="Single">B8F57723-5242-4351-8EDD-BA1CC4C0D1D0</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">93D4C029-8025-45E6-AF2B-FEE12876B11F</HistoryItem>
-                    <HistoryItem Type="BinderItems" ViewMode="Single">B8F57723-5242-4351-8EDD-BA1CC4C0D1D0</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">4B033221-8BAE-4EE4-B83E-00B3AB941D4F</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">3E3A84A7-5A8B-4623-9A4F-0B4369EF3951</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">422B8BE5-5D42-4404-A807-B1BBD86CC191</HistoryItem>
@@ -275,6 +272,9 @@
                     <HistoryItem Type="BinderItems" ViewMode="Single">422B8BE5-5D42-4404-A807-B1BBD86CC191</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">93D4C029-8025-45E6-AF2B-FEE12876B11F</HistoryItem>
                     <HistoryItem Type="BinderItems" ViewMode="Single">D63FAFE1-08CF-4336-91F9-11B2667B35E4</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">93D4C029-8025-45E6-AF2B-FEE12876B11F</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">B8F57723-5242-4351-8EDD-BA1CC4C0D1D0</HistoryItem>
+                    <HistoryItem Type="BinderItems" ViewMode="Single">D63FAFE1-08CF-4336-91F9-11B2667B35E4</HistoryItem>
                 </NavigationHistory>
             </View>
             <Text>
@@ -282,7 +282,7 @@
                 <PageLayout Facing="No">No</PageLayout>
                 <TypewriterScrolling>No</TypewriterScrolling>
                 <LineNumbers Interval="1">No</LineNumbers>
-                <Selection>504,0</Selection>
+                <Selection>478,0</Selection>
             </Text>
             <Outliner>
                 <Columns>

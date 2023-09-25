@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Template="No" Version="2.0" Identifier="DF620383-FA1F-4D0E-8B36-51345344D5A6" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-KSNNKT5" Modified="2023-09-23 01:00:18 -0400" ModID="D13F45E7-AAA5-4413-B2B9-61DD4210F97D">
+<ScrivenerProject Template="No" Version="2.0" Identifier="DF620383-FA1F-4D0E-8B36-51345344D5A6" Creator="SCRWIN-3.1.5.1" Device="DESKTOP-KSNNKT5" Modified="2023-09-24 21:00:46 -0400" ModID="9D0ABAEF-EB18-4FB1-AD2F-4E8E66B2F616">
     <Binder>
         <BinderItem UUID="5CCA5CA5-5416-4F46-AA31-AE4521B0D722" Type="Folder" Created="2023-08-20 15:39:41 -0400" Modified="2023-09-23 00:10:34 -0400">
             <Title>Front Matter</Title>
@@ -376,7 +376,7 @@
                                 <TextSelection>884,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
-                        <BinderItem UUID="D63FAFE1-08CF-4336-91F9-11B2667B35E4" Type="Text" Created="2023-08-27 19:20:03 -0400" Modified="2023-09-23 01:00:06 -0400">
+                        <BinderItem UUID="D63FAFE1-08CF-4336-91F9-11B2667B35E4" Type="Text" Created="2023-08-27 19:20:03 -0400" Modified="2023-09-24 21:00:45 -0400">
                             <Title>2</Title>
                             <MetaData>
                                 <LabelID>0</LabelID>
@@ -385,7 +385,7 @@
                                 <NotesTextSelection>39,0</NotesTextSelection>
                             </MetaData>
                             <TextSettings>
-                                <TextSelection>478,0</TextSelection>
+                                <TextSelection>512,0</TextSelection>
                             </TextSettings>
                         </BinderItem>
                     </Children>
@@ -2535,12 +2535,12 @@
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2023-07-31 01:29:15 -0400" IgnoreDeadline="Yes">90000</DraftTarget>
         <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="No" WritingDays="">0</SessionTarget>
-        <PreviousSession Words="82" Characters="478" Date="2023-09-23 01:00:18 -0400"/>
+        <PreviousSession Words="6" Characters="34" Date="2023-09-24 21:00:46 -0400"/>
     </ProjectTargets>
     <TemplateFolderUUID>52302444-5C04-4BD5-9CC7-505C153E41DB</TemplateFolderUUID>
-    <RecentWritingHistory Date="2023-09-23 00:00:00 -0400">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>-2</DraftCharCount>
+    <RecentWritingHistory Date="2023-09-24 00:00:00 -0400">
+        <DraftWordCount>6</DraftWordCount>
+        <DraftCharCount>34</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>
